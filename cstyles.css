@@ -1,0 +1,12 @@
+.carousel {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.carousel img {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+}
