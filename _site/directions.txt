@@ -1,0 +1,2 @@
+don't understand this structure, but duplicates are here as well.
+style, json, and html files populate this folder with the images, posts, and site)libs folder
