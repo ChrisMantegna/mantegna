@@ -4,9 +4,19 @@ subtitle: "Chris Mantegna, Graduate Student in the Roberts Lab at SAFS"
 title-block-banner: true
 about:
   id: me
-  template: pulse
+  template: lux
+  links:
+    - icon: dna
+      text: Science
+      href: projects.qmd
+    - icon: github
+      text: Github
+      href: https://github.com/ChrisMantegna
+    - icon: envelope
+      text: Email
+      href: mailto::mantegna@uw.edu
  # image: img/profile.png
 ---
 
-I am a person doing things in a place.  
+I am a person doing things in a place.\
 Here is a picture of me and some of the cool things I've done.

@@ -1,22 +1,11 @@
 project:
   type: website
   output-dir: docs
-  
-  
 website:
   title: "Chris Mantegna"
   navbar:
       left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-  
-  # tools:
-   #   - icon: twitter
-   #     href: https://twitter.com/SaffireSeahorse
-   #   - icon: github
-   #    href: https://github.com/ChrisMantegna/mantegna
-
+        - index.qmd
 
 format:
   html:
